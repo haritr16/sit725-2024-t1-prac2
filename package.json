@@ -1,0 +1,25 @@
+{
+  "name": "sit725-2024-t1-prac2",
+  "version": "1.0.0",
+  "description": "sit725-2024-t1-prac2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haritr16/sit725-2024-t1-prac2.git"
+    },
+
+  "author": "Hariharan Tandullu Ramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haritr16/sit725-2024-t1-prac2/issues"
+    },
+    "homepage": "https://github.com/haritr16/sit725-2024-t1-prac2#readme",
+
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
